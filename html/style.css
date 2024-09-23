@@ -1,0 +1,32 @@
+body{
+
+    background: url(coracito.jpg);   
+    background-size: cover;
+    background-position: center center;
+    font-family: sans-serif;
+}
+
+.Alinear_Flex{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+h1{
+   text-align: center;
+   margin-top: 4%;
+}
+
+body{
+    
+        font-family: "Lilita One", sans-serif;
+        font-weight: 7000;
+        font-style: normal;
+}
+
+.posicion_izquierda{
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-start;
+
+}
